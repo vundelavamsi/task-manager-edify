@@ -1,0 +1,41 @@
+.heading {
+  font-family: ' Impact, Haettenschweiler, ' Arial Narrow Bold ', sans-serif';
+  font-weight: bold;
+  font-size: 40px;
+  /* color: white; */
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.form-container {
+  text-align: center;
+}
+.title-input {
+  height: 50px;
+  width: 310px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.priority {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #169c54;
+  color: #ffffff;
+}
+.date {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #80a3ed;
+  border: none;
+}
+.submit-button {
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px;
+  background-color: #ed9d07;
+  border: none;
+}

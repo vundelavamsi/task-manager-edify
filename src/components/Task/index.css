@@ -1,0 +1,52 @@
+.list-item {
+  list-style-type: none;
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid grey;
+  min-width: 300px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  align-items: center;
+  border-radius: 10px;
+}
+
+.button {
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin: 20px;
+}
+
+.task-title {
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox {
+  width: 80px;
+  height: 40px;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.info-container {
+  display: flex;
+}
+
+.info-button {
+  height: 40px;
+  width: 140px;
+  background-color: #1973D1;
+  border: 0px;
+  margin: 10px;
+  color: white;
+  border-radius: 6px;
+  padding: 4px;
+}
